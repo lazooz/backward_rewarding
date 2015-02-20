@@ -1,2 +1,2 @@
 # backward_rewarding
-Lazooz backward rewording code
+Lazooz backward rewarding code
